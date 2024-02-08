@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
 mx: mail.remedian.co.uk
+mx: remedian-co-uk.mail.protection.outlook.com
 max_age: 604800
